@@ -51,7 +51,7 @@ h1, h2 {
   margin-bottom:70px;
  }
 
-.column_animation, .column_keaapp, .column_redesign, .column_joejuice{
+.column_keaapp, .column_redesign, .column_joejuice{
         width: 300px;
         margin-left: 0;
     }
@@ -60,7 +60,7 @@ h1, h2 {
   width:300px;
 }
 
-    .column_redesign{
+    .column_redesign, .column_animation{
 
         margin-left: 70px;
     }
