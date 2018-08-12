@@ -16,7 +16,7 @@ a {
 
 p {
     font-size: 14px;
-    color: white;
+
     font-weight: 300;
     letter-spacing: 1px;
     margin-top: 40px;
@@ -607,7 +607,7 @@ p {
     border: 0px;
 }
 
-.tema_2 p.text {
+.tema3_2 p.text {
     text-align: center;
     font-size: 14px;
     width: 250px;

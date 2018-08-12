@@ -1,5 +1,5 @@
 /*mobil*/
-@media (min-width: 375px) and (max-width:767px) {
+@media (min-width: 360px) and (max-width:767px) {
 
 .menu, .menu-content, .sticky{
     width: 95%;
